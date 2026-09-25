@@ -36,3 +36,5 @@ En samling av mine **egne prosjekter, universitetsoppgaver og programmeringseksp
 ### [ReFinED](https://github.com/enRichMyData/ReFinED)
 
 Et system for entitetskobling i tabulære data. Jeg **bidro til prosjektet som en del av masteroppgaven min**, med arbeid knyttet til implementasjon og evaluering.
+
+**[Evaluation and Practical Use of the ReFinED Entity Linking Tool](https://github.com/borgebj/borgebj/blob/main/Master_s_thesis.pdf)** — masteroppgaven min.
