@@ -10,7 +10,7 @@ Buskerud, Norge
 
 ---
 
-## Fagområder og prosjekter
+## Studieprosjekter
 
 **AI og maskinlæring**  
 [IN4050](https://github.com/borgebj/IN4050-AI-Python) -- AI- og maskinlæringsmetoder implementert fra bunnen av i Python.
