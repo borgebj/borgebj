@@ -6,8 +6,6 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 Buskerud, Norge
 
-[Kattis](https://open.kattis.com/users/borgebj) -- profil for kodeoppgaver fra Kattis (brukt blant annet i emnet IN2010)
-
 ---
 
 ## Studieprosjekter
@@ -28,7 +26,8 @@ Buskerud, Norge
 [IN4110](https://github.com/borgebj/IN4110-Problemlosning-med-hoyniva-sprak) -- Web scraping, bildebehandling og problemløsning i Python.
 
 **Kodeoppgaver og trening**  
-[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Løste kodeoppgaver fra NeetCode og andre programmeringsøvelser.
+[Kattis](https://open.kattis.com/users/borgebj) -- profil for kodeoppgaver fra Kattis (brukt blant annet i emnet IN2010)  
+[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Løste kodeoppgaver fra NeetCode og andre programmeringsøvelser.  
 
 ---
 
