@@ -4,7 +4,7 @@ Utdannet informatiker fra **Universitetet i Oslo**, hvor jeg har fullført både
 
 Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er interessert i programvareutvikling, AI og maskinlæring.
 
-📍 Buskerud, Norge
+Buskerud, Norge
 
 * [UiO GitHub](https://github.uio.no/borgebj)
 * [Kattis](https://open.kattis.com/users/borge-bjornstadjordet)
