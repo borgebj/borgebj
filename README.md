@@ -8,6 +8,9 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 ## Studieprosjekter
 
+**Apputvikling**  
+[IN2000](https://github.com/borgebj/IN2000-Gruppe-5) -- Android-app utviklet i Kotlin som viser luftkvalitet i Norge basert på data fra Meteorologisk institutt (MET).
+
 **AI og maskinlæring**  
 [IN4050](https://github.com/borgebj/IN4050-AI-Python) -- AI- og maskinlæringsmetoder implementert fra bunnen av i Python.
 
