@@ -6,11 +6,9 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 Buskerud, Norge
 
-* [UiO GitHub](https://github.uio.no/borgebj)
-* [Kattis](https://open.kattis.com/users/borge-bjornstadjordet)
-* [NeetCode](https://neetcode.io/user/SereneKunai217)
+[Kattis](https://open.kattis.com/users/borgebj) -- profil for kodeoppgaver fra Kattis (brukt blant annet i emnet IN2010)
 
-## Fagområder
+## Fagområder og prosjekter
 
 **AI og maskinlæring**
 [IN4050](https://github.com/borgebj/IN4050-AI-Python) -- AI- og maskinlæringsmetoder implementert fra bunnen av i Python.
@@ -26,6 +24,10 @@ Buskerud, Norge
 
 **Avansert Python**
 [IN4110](https://github.com/borgebj/IN4110-Problemlosning-med-hoyniva-sprak) -- Web scraping, bildebehandling og problemløsning i Python.
+
+**Kodeoppgaver og trening**
+[Neetcode-submissions](https://github.com/borgebj/neetcode-submissions) -- Kodeoppgaver online.
+
 
 ## Utvalgte prosjekter
 
