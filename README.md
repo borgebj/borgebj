@@ -1,22 +1,38 @@
 # Børge Bjørnstadjordet
 
-Informatics graduate from the University of Oslo, with a focus on programming and system architecture.
+Utdannet informatiker fra **Universitetet i Oslo**, hvor jeg har fullført både bachelor- og mastergrad. Gjennom studiene har jeg jobbet med flere ulike områder innen informatikk, blant annet **AI og maskinlæring, operativsystemer, datakommunikasjon, parallellprogrammering og distribuerte systemer**.
 
-I mainly work with **Python, Java, Kotlin, C, and TypeScript**, and I'm interested in software development, AI, and machine learning.
+Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er interessert i programvareutvikling, AI og maskinlæring.
 
-📍 Oslo, Norway
-🎓 [University of Oslo](https://www.uio.no/)
-💻 [UiO GitHub](https://github.uio.no/borgebj)
-🏆 [Kattis](https://open.kattis.com/users/borge-bjornstadjordet)
+📍 Buskerud, Norge
 
-## Projects
+* [UiO GitHub](https://github.uio.no/borgebj)
+* [Kattis](https://open.kattis.com/users/borge-bjornstadjordet)
+* [NeetCode](https://neetcode.io/user/SereneKunai217)
 
-A collection of university coursework, experiments, and personal projects.
+## Forskjellige studieprosjekter / emner
 
-## Currently
+* **AI og maskinlæring** — [IN4050 – AI](https://github.com/borgebj/IN4050-AI-Python)
+  Implementasjon av AI- og maskinlæringsmetoder fra bunnen av i Python.
 
-Exploring **AI development, machine learning, and software engineering**.
+* **Operativsystemer og datakommunikasjon** — [IN2140](https://github.com/borgebj/IN2140-Introduksjon-til-operativsystemer-og-datakommunikasjon)
+  Programmering i C med fokus på operativsystemer og datakommunikasjon. Inneholder blant annet et enkelt terminalbasert «MSN»-program som demonstrerer kommunikasjon mellom to terminaler.
 
-## Achievements
+* **Parallellprogrammering** — [IN4330](https://github.com/borgebj/IN4330-Parallellprogrammering-Java)
+  Tråd- og parallellprogrammering i Java.
 
-[View GitHub achievements →](https://github.com/borgebj?tab=achievements)
+* **Distribuerte systemer** — [IN5020](https://github.com/borgebj/IN5020-Distribuerte-Systemer)
+  Tre oppgaver som utforsker distribuerte systemer og cloud-tjenester i Java, blant annet replikering av bankkontoer og server–proxy–klient-systemer.
+
+* **Problemløsning med høynivåspråk** — [IN4110](https://github.com/borgebj/IN4110-Problemlosning-med-hoyniva-sprak)
+  Mer avansert Python-programmering med blant annet web scraping, bildebehandling og ulike programmeringsoppgaver.
+
+## Utvalgte prosjekter
+
+### [Prosjekter](https://github.com/borgebj/Prosjekter)
+
+En samling av mine **egne prosjekter, universitetsoppgaver og programmeringseksperimenter**.
+
+### [ReFinED](https://github.com/enRichMyData/ReFinED)
+
+Et system for entitetskobling i tabulære data. Jeg **bidro til prosjektet som en del av masteroppgaven min**, med arbeid knyttet til implementasjon og evaluering.
