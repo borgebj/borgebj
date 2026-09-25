@@ -31,7 +31,7 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 ## Utvalgte prosjekter
 
-### [Prosjekter](https://github.com/borgebj/Prosjekter)
+### [Prosjekter](https://github.com/borgebj/Prosjekter) og [Nettside](https://borgebj.github.io/Prosjekter/)
 
 En samling av mine **egne prosjekter, universitetsoppgaver og programmeringseksperimenter**.
 
