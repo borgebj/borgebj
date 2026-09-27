@@ -6,7 +6,7 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 ---
 
-## Studieprosjekter
+## Fremhevede repositorier
 
 **Apputvikling**  
 [IN2000](https://github.com/borgebj/IN2000-Gruppe-5) -- Android-app utviklet i Kotlin som viser luftkvalitet i Norge basert på data fra Meteorologisk institutt (MET).
@@ -28,7 +28,8 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 
 **Kodeoppgaver og trening**  
 [Kattis](https://open.kattis.com/users/borgebj) -- profil for kodeoppgaver fra Kattis (brukt blant annet i emnet IN2010)  
-[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Løste kodeoppgaver fra NeetCode og andre programmeringsøvelser.  
+[Neetcode-gpt](https://github.com/borgebj/neetcode-gpt) -- Neetcode oppgaver spesifikt til maskinlæring  
+[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Programmeringsoppgaver fra Neetcode  
 
 ---
 
