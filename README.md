@@ -25,13 +25,8 @@ Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er int
 **Distribuerte systemer**  
 [IN5020](https://github.com/borgebj/IN5020-Distribuerte-Systemer) -- Distribuerte systemer og skytjenester i Java.
 
-**Avansert Python**  
-[IN4110](https://github.com/borgebj/IN4110-Problemlosning-med-hoyniva-sprak) -- Web scraping, bildebehandling og problemløsning i Python.
-
 **Kodeoppgaver og trening**  
-[Kattis](https://open.kattis.com/users/borgebj) -- profil for kodeoppgaver fra Kattis (brukt blant annet i emnet IN2010)  
-[Neetcode-gpt](https://github.com/borgebj/neetcode-gpt) -- Neetcode oppgaver spesifikt til maskinlæring  
-[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Programmeringsoppgaver fra Neetcode  
+[Kattis](https://open.kattis.com/users/borgebj) / [Neetcode-gpt](https://github.com/borgebj/neetcode-gpt) / [NeetCode-submissions](https://github.com/borgebj/neetcode-submissions)
 
 ---
 
