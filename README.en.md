@@ -25,13 +25,8 @@ I mainly work with **Python, Java, Kotlin, C, and TypeScript**, and I am interes
 **Distributed Systems**  
 [IN5020](https://github.com/borgebj/IN5020-Distribuerte-Systemer) -- Distributed systems and cloud services in Java.
 
-**Advanced Python**  
-[IN4110](https://github.com/borgebj/IN4110-Problemlosning-med-hoyniva-sprak) -- Web scraping, image processing, and problem solving in Python.
-
 **Coding Challenges and Practice**  
-[Kattis](https://open.kattis.com/users/borgebj) -- Profile for coding challenges from Kattis, used among other things in the IN2010 course.  
-[Neetcode-gpt](https://github.com/borgebj/neetcode-gpt) -- NeetCode problems specifically focused on machine learning.  
-[NeetCode-submissions](https://github.com/borgebj/neetcode-submissions) -- Programming challenges from NeetCode.
+[Kattis](https://open.kattis.com/users/borgebj) / [Neetcode-gpt](https://github.com/borgebj/neetcode-gpt) / [NeetCode-submissions](https://github.com/borgebj/neetcode-submissions)  
 
 ---
 
