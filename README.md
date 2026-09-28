@@ -1,5 +1,7 @@
 # Børge Bjørnstadjordet
 
+[🇳🇴 Norsk](https://github.com/borgebj/borgebj/blob/main/README.md) | [🇬🇧 English](https://github.com/borgebj/borgebj/blob/main/README.en.md)
+
 Utdannet informatiker fra **Universitetet i Oslo**, hvor jeg har fullført både bachelor- og mastergrad. Gjennom studiene har jeg jobbet med blant annet **AI og maskinlæring, operativsystemer, datakommunikasjon, parallellprogrammering, distribuerte systemer**, og mye mer.
 
 Jeg jobber hovedsakelig med **Python, Java, Kotlin, C og TypeScript**, og er interessert i programvareutvikling, AI og maskinlæring.
